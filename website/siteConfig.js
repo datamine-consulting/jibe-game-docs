@@ -23,15 +23,15 @@ const users = [
 const siteConfig = {
   title: 'jibe', // Title for your website.
   tagline: 'Think like others to win',
-  url: 'https://datamine-consulting.github.io', // Your website URL
-  baseUrl: '/jibe-game-docs/', // Base URL for your project */
+  url: 'https://jibegame.github.io', // Your website URL
+  baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'jibe-game-docs',
-  organizationName: 'datamine-consulting',
+  projectName: 'jibegame.github.io',
+  organizationName: 'jibegame',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
